@@ -1,5 +1,5 @@
 - 🌱 Hi, I’m Brittany!
-- 🤓 I’m interested in Data Analytics + Marketing + Data Engineering
+- 🤓 I’m interested in Data Analytics + Product Strategy + Data Engineering
 - ✌🏾 Fight On! I earned my MsBA in Data Science and Operations from <a href="https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-business-analytics">@USC</a>
 <!---
 brittanyms/brittanyms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
